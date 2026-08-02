@@ -35,6 +35,6 @@ Expected Completion: 2026
 
 ## Connect With Me
 
-🔗 LinkedIn: [Asiya Seemi](https://www.linkedin.com/in/asiya-seemi)
+🔗## LinkedIn: [Asiya Seemi](https://www.linkedin.com/in/asiya-seemi)
 
-📧 Email: asiyaseemi4@gmail.com
+📧## Email: asiyaseemi4@gmail.com
