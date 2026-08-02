@@ -1,38 +1,39 @@
 # Asiya Seemi
+### Computer Operator | MS Office Expert | Data Entry | Administrative Support
 
-## Computer Operator & MS Office Expert
+Welcome to my GitHub profile.
 
-Professional profile focused on Computer Operations, MS Office, Data Entry, Documentation, Record Management, and Administrative Support.
+I am a detail-oriented Computer Operator with experience in MS Office, data entry, documentation, record management, and administrative support.
 
 ## Skills
 
-* MS Word & Excel
-* PowerPoint
-* Data Entry
-* Documentation
-* Record Management
-* Email & Internet Usage
-* Teamwork
-* Time Management
+- Microsoft Word
+- Microsoft Excel
+- PowerPoint
+- Data Entry
+- Documentation
+- Record Management
+- Email & Internet Usage
+- Administrative Support
 
-## Experience
+## Professional Experience
 
-**Fazal e Allahi Pharma (2019 — 2020)**
+### Searl Pharma
+- Maintained production records and documentation.
+- Followed SOPs and quality standards.
 
-* Managed pharmaceutical stock inventory and maintained accurate records.
-* Assisted in labeling, organizing, and warehouse documentation.
-
-**Searl Pharma (2021 — 2022)**
-
-* Worked in production and packaging department while ensuring SOP compliance and quality standards.
+### Fazal e Allahi Pharma
+- Managed stock records and documentation.
+- Supported operational tasks.
 
 ## Education
 
-**Bachelor of Arts (BA) — In Progress**
-Allama Iqbal Open University (AIOU)
+Bachelor of Arts (BA)  
+Allama Iqbal Open University (AIOU)  
 Expected Completion: 2026
 
-## Contact
+## Connect With Me
 
-Email: [asiyaseemi4@gmail.com](mailto:asiyaseemi4@gmail.com)
-Location: Karachi, Pakistan
+LinkedIn: https://www.linkedin.com/in/asiya-seemi
+
+Email: asiyaseemi4@gmail.com
