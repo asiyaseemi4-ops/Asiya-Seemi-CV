@@ -1,5 +1,6 @@
 # Asiya Seemi
-### Computer Operator | MS Office Expert | Data Entry | Administrative Support
+
+## Computer Operator | MS Office Expert | Data Entry | Administrative Support
 
 Welcome to my GitHub profile.
 
@@ -28,12 +29,12 @@ I am a detail-oriented Computer Operator with experience in MS Office, data entr
 
 ## Education
 
-Bachelor of Arts (BA)  
+**Bachelor of Arts (BA)**  
 Allama Iqbal Open University (AIOU)  
 Expected Completion: 2026
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/asiya-seemi
+🔗 LinkedIn: [Asiya Seemi](https://www.linkedin.com/in/asiya-seemi)
 
-Email: asiyaseemi4@gmail.com
+📧 Email: asiyaseemi4@gmail.com
