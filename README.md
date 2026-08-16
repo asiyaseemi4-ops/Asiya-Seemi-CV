@@ -1,21 +1,28 @@
 # Asiya Seemi
 
-## Computer Operator | MS Office Expert | Data Entry | Documentation | Admin Support
+## Computer Operator | Customer Support | Data Entry | MS Office
 
 Welcome to my GitHub profile.
 
-I am a detail-oriented Computer Operator with experience in MS Office, data entry, documentation, record management, and administrative support. I have professional experience in the pharmaceutical industry, including production operations, packaging activities, documentation, and maintaining SOP-based processes.
+I am a detail-oriented Computer Operator and MS Office professional with experience in data entry, documentation, record management, and administrative support. I have professional experience in the pharmaceutical industry, including production operations, packaging activities, documentation, and maintaining SOP-based processes.
+
+I also have strong computer skills, a customer-focused approach, good communication, problem-solving abilities, and the ability to learn new systems quickly.
 
 ## Skills
 
 - Microsoft Word
 - Microsoft Excel
 - PowerPoint
+- Customer Support
 - Data Entry
 - Documentation
 - Record Management
-- Email & Internet Usage
+- Email & Chat Support
+- Problem Solving
 - Administrative Support
+- Teamwork
+- Time Management
+- Typing Speed
 - Production Documentation
 - SOP Compliance
 
@@ -46,10 +53,12 @@ Expected Completion: 2026
 ## Professional Interests
 
 - Computer Operator
+- Customer Support
 - Data Entry Operator
 - Office Assistant
 - Administrative Support
 - Receptionist
+- Operations Support
 
 ## Connect With Me
 
